@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  ChatBot
+
+  Created by Risonaldo Moura on 07/07/23.
+  
+*/
+
+"PROMPT_EXPLAIN_CODE" = "Faça isso em linguagem de programação swift: ";
